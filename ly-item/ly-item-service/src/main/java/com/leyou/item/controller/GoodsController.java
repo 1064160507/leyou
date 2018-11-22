@@ -53,7 +53,7 @@ public class GoodsController {
 
     /**
      * 保存商品
-     *
+     * test
      * @param spu
      * @return
      */
